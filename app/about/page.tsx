@@ -51,7 +51,7 @@ export default function AboutPage() {
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
-        className="text-4xl font-bold mb-8 text-center"
+        className="text-2xl md:text-4xl font-bold mb-8 md:text-center"
       >
         About Nkosiyami Building Contractors
       </motion.h1>
@@ -73,10 +73,10 @@ export default function AboutPage() {
         <div>
           <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
           <p className="mb-4">
-            At Nkosiyami Building Contractors, our mission is to bring our clients' visions to life through expert craftsmanship and innovative design. We strive to exceed expectations in every project, big or small.
+            At Nkosiyami Building Contractors, our mission is to bring our clients&apos; visions to life through expert craftsmanship and innovative design. We strive to exceed expectations in every project, big or small.
           </p>
           <p>
-            We're committed to using sustainable practices and materials whenever possible, ensuring that our work not only looks great but also contributes to a better environment. Our goal is to create spaces that are not just beautiful and functional, but also energy-efficient and environmentally responsible.
+            We&apos;re committed to using sustainable practices and materials whenever possible, ensuring that our work not only looks great but also contributes to a better environment. Our goal is to create spaces that are not just beautiful and functional, but also energy-efficient and environmentally responsible.
           </p>
         </div>
       </motion.div>

@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
-import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog'
+import { Dialog, DialogContent } from '@/components/ui/dialog'
 
 const galleryCategories = [
   "All",

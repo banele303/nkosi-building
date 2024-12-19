@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { Button } from '@/components/ui/button'
 import Link from 'next/link'
 import Image from 'next/image'
-import { useState, useEffect } from 'react'
+
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 import HomeHero from '@/components/home-hero'
 import AboutUs from './about/about-us'

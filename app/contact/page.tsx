@@ -51,7 +51,7 @@ export default function ContactPage() {
           transition={{ duration: 0.5, delay: 0.2 }}
         >
           <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
-          <p className="mb-4">We'd love to hear from you. Please fill out the form below or use our contact information.</p>
+          <p className="mb-4">We&apos;d love to hear from you. Please fill out the form below or use our contact information.</p>
           <div className="space-y-2">
             <p><strong>Email:</strong> accnkosiyam@gmail.com</p>
             <p><strong>Phone:</strong> 0662276342</p>

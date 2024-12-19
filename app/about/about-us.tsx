@@ -25,27 +25,6 @@ const AboutUs = () => {
     );
 };
 
-const services = [
-    {
-        title: "Painting",
-        description: "Enhance your space with vibrant, long-lasting colors and precision finishes."
-    },
-    {
-        title: "Tiling",
-        description: "Expertly laid tiles to create durable and stylish surfaces for any room."
-    },
-    {
-        title: "Carpentry",
-        description: "Custom woodwork that adds functionality and elegance to your home."
-    },
-    {
-        title: "Plumbing",
-        description: "Reliable plumbing solutions for every need, from repairs to installations."
-    },
-    {
-        title: "Kitchen Remodeling",
-        description: "Transform your kitchen into a modern, functional, and aesthetic masterpiece."
-    }
-];
+
 
 export default AboutUs;
